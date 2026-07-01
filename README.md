@@ -83,6 +83,7 @@ Continuously enhance the solution with additional enterprise integrations and se
 - Security Governance
 - Compliance Automation
 
+# Future Integrations
 # | Category      | Integration                |
 | ------------- | -------------------------- |
 | Identity      | Microsoft Entra ID, Okta   |
