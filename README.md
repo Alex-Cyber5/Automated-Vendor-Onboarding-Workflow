@@ -97,8 +97,15 @@ Continuously enhance the solution with additional enterprise integrations and se
 | GRC           | ServiceNow GRC, OneTrust   |
 
 # About Me
-Hi, I'm Alex, an Information Security GRC professional with experience in security assurance, governance, risk management, third-party/vendor risk assessments, threat modelling, policy development, and technical business analysis.
+Hi, I'm Alex, an Information Security GRC professional with experience in security assurance, governance, risk management, third-party/vendor risk assessments, threat modelling, policy development, and technical business analysis. I'm passionate about designing secure, scalable, and automated business processes that improve operational efficiency while strengthening security and compliance. My focus is on applying security best practices throughout the vendor lifecycle by combining Governance, Risk, and Compliance (GRC) principles with workflow automation. This repository is part of my professional portfolio and demonstrates how security governance can be integrated into enterprise automation using the n8n Platform.
 
-I'm passionate about designing secure, scalable, and automated business processes that improve operational efficiency while strengthening security and compliance. My focus is on applying security best practices throughout the vendor lifecycle by combining Governance, Risk, and Compliance (GRC) principles with workflow automation.
+# Let's Connect
+Thank you for taking the time to explore this project. If you're interested in cybersecurity, governance, risk management, workflow automation, or Microsoft Power Platform, I'd be happy to connect and exchange ideas. Pls feel free to:
 
-This repository is part of my professional portfolio and demonstrates how security governance can be integrated into enterprise automation using the n8n Platform.
+Connect with me on LinkedIn - https://www.linkedin.com/in/alex-c-p-323051ba/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXv%2FwL57xT4a2P2WIRIA8Bw%3D%3D
+Explore my other GitHub repositories.
+Share feedback or suggestions by opening an Issue.
+Fork this repository to build upon the solution.
+Star the repository if you found it helpful.
+
+I welcome constructive feedback and opportunities to collaborate on security, automation, and GRC-focused projects.
