@@ -70,7 +70,7 @@ Build a practical cybersecurity portfolio.
 Share reusable templates and implementation guidance.
 Continuously enhance the solution with additional enterprise integrations and security controls.
 
-# ## Security Best Practices
+# Security Best Practices
 
 - Vendor Risk Management
 - Security Assurance
