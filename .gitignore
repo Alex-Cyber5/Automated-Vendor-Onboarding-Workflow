@@ -1,0 +1,49 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+
+# Environment Variables
+.env
+.env.*
+
+# Microsoft Office Temporary Files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Local Configuration
+local.settings.json
+settings.json
+
+# Power Platform Export Packages
+*.zip
+
+# Python (if used for helper scripts)
+__pycache__/
+*.pyc
+What should remain in the repository
+README.md
+LICENSE
+.gitignore
+docs/
+diagrams/
+workflows/
+templates/
+samples/
+images/
+tracker/
+
+# Node.js (if used later)
+node_modules/
